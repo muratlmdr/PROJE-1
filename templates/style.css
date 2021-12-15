@@ -1,0 +1,27 @@
+.navbar-custom {
+    background-color: #000000;
+    font-size: 27px;
+}
+/* change the brand and text color */
+.navbar-custom .navbar-brand,
+.navbar-custom .navbar-text {
+    color: rgba(0, 0, 0, 0.8);
+}
+/* change the link color */
+.navbar-custom .navbar-nav .nav-link {
+    color: rgba(0, 0, 0, 0.8);
+}
+/* change the color of active or hovered links */
+.navbar-custom .nav-item.active .nav-link,
+.navbar-custom .nav-item:hover .nav-link {
+    color: #000000;
+}
+
+.btn-costumes {
+  background-color: #2f31b4;
+}
+
+.body {
+    background-color: #242424
+}
+
